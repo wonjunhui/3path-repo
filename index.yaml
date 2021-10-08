@@ -3,7 +3,7 @@ entries:
   3path-helm:
   - apiVersion: v1
     appVersion: latest
-    created: "2021-10-08T15:32:50.240025+09:00"
+    created: "2021-10-08T15:36:02.435377+09:00"
     description: 3path-helm
     digest: 3f7b043932e28716a45e82076f905f849dff692120fc5088af12d394945fedca
     home: https://github.com/wonjunhui/3path-repo
@@ -21,4 +21,4 @@ entries:
     urls:
     - 3path-helm-0.1.1.tgz
     version: 0.1.1
-generated: "2021-10-08T15:32:50.238623+09:00"
+generated: "2021-10-08T15:36:02.434514+09:00"
