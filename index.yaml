@@ -1,3 +1,24 @@
 apiVersion: v1
-entries: {}
-generated: "2021-10-08T15:26:08.184972+09:00"
+entries:
+  3path-helm:
+  - apiVersion: v1
+    appVersion: latest
+    created: "2021-10-08T15:32:50.240025+09:00"
+    description: 3path-helm
+    digest: 3f7b043932e28716a45e82076f905f849dff692120fc5088af12d394945fedca
+    home: https://github.com/wonjunhui/3path-repo
+    icon: https://d36jcksde1wxzq.cloudfront.net/saas-mega/blueFingerprint.png
+    keywords:
+    - hello
+    - sample
+    kubeVersion: '>=1.15.3'
+    maintainers:
+    - email: one_jh@lotte.net
+      name: wonjunhee
+    name: 3path-helm
+    sources:
+    - https://wonjunhui.github.io/3path-repo
+    urls:
+    - 3path-helm-0.1.1.tgz
+    version: 0.1.1
+generated: "2021-10-08T15:32:50.238623+09:00"
